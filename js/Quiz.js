@@ -30,7 +30,7 @@ class Quiz {
 
   play(){
     //write code here to hide question elements
-    question.hideques()
+    //question.hideques()
     question.hide()
 
 
